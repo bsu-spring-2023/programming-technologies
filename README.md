@@ -18,6 +18,10 @@
 https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/presentations/2.pdf).
 3. Про архитектуру приложений: [link](
 https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/presentations/3.pdf).
+4. Паттерны: [link](
+https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/presentations/4.pdf).
+5. Отладка ПО: [link](
+https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/presentations/5.pdf).
 
 ## Лабораторные работы
 
