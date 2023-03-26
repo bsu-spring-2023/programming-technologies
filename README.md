@@ -52,6 +52,7 @@ https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/presentat
 1. ```cistring```: [link](https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/labs/cistring.md). До 8 баллов. 
 2. ```search 1```: [link](https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/labs/search1.md). До 13 баллов.
 3. ```matrix```: [link](https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/labs/matrix.md). До 5 баллов.  
+4. ```search2```: [link](https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/labs/search2.md). До 10+ баллов.
 
 ### Настройка репозитория
 
